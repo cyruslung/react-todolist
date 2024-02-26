@@ -67,4 +67,4 @@ npm test
 
 ## 🔗 Link
 
-- [TODO APIs](https://todoo.5xcamp.us/api-docs/index.html){:target="_blank"}
+- [TODO APIs](https://todoo.5xcamp.us/api-docs/index.html)
